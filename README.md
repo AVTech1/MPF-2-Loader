@@ -5,7 +5,7 @@ During the Retrochallenge RC2019/xx I want  to make a good workflow for programm
 
 The blog of this story would be told on: https://avretro.wordpress.com/
 
-Retrochallenge RC2019/09: http://www.retrochallenge.org/
+Retrochallenge RC2019/xx: http://www.retrochallenge.org/
 
 On this GitHub I want to store all the information and programs to build the interface and to program the Loader by yourself. Also the final build Loader program comes here. 
 
