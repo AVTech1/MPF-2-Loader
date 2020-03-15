@@ -9,4 +9,4 @@ Retrochallenge RC2019/xx: http://www.retrochallenge.org/
 
 On this GitHub I want to store all the information and programs to build the interface and to program the Loader by yourself. Also the final build Loader program comes here. 
 
-
+The Retrochallenge is moved from 2019/10 to 2020/04 (?) so we must wait a couple months for this challenge
